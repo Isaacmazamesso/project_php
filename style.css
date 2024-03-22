@@ -1,0 +1,49 @@
+body{
+    color:  white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(dev1.avif);
+
+}
+
+form{
+    background-color: rgba(7, 7, 200, 0.8);
+    text-align: center;
+    color: white;
+    border-collapse: collapse;
+    margin-top: 100px;
+    width: 200px;
+    border-radius: 7px;
+    padding: 80px;
+    color: white;
+    margin: auto;
+    background-image: url(dev2.avif);
+
+}
+
+label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+
+}
+
+input{
+
+    border-radius: 4px;
+}
+
+a{
+    color: orangered;
+    
+}
+
+
+
+
+
